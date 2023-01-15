@@ -1,0 +1,213 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkslategray;
+}
+
+.container {
+    text-align: center;
+    width: 100%;
+}
+
+.rrr {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 600px;
+}
+
+.row {
+    text-align: center;
+    box-sizing: content-box;
+    /* margin: auto; */
+    /* width: 100%; */
+}
+
+#country1 {
+    width: 500px;
+    height: 280px;
+    background: transparent;
+    margin: auto;
+}
+
+.c-size3{
+    height: 93.5px;
+}
+
+.btn-div {
+    box-sizing: content-box;
+    margin-top: 50px;
+}
+
+.click {
+    background-color: teal;
+    cursor: pointer;
+    border: 2px solid blueviolet;
+    padding: 8px 14px;
+    font-size: 35px;
+    font-weight: 600;
+    font-style: italic;
+    color: #3e3e;
+    border-radius: 50px;
+}
+
+.blue1 {
+    background-color: blue;
+    width: 100%;
+}
+
+.white1 {
+    background-color: white;
+    width: 100%;
+}
+
+.green1 {
+    background-color: green;
+    width: 100%;
+}
+
+.red1 {
+    background-color: red;
+    height: 10px;
+    width: 100%;
+}
+
+.c-size {
+    height: 86.5px;
+}
+
+#country2 {
+    width: 500px;
+    height: 280px;
+    background: transparent;
+    margin: auto;
+    display: none;
+}
+
+.c-size2 {
+    height: 93.33333333333333px;
+}
+
+.white2 {
+    width: 100%;
+    background-color: white;
+}
+
+.red2 {
+    width: 100%;
+    background-color: red;
+}
+
+.blue2 {
+    width: 100%;
+    background-color: blue;
+}
+
+#country3 {
+    width: 500px;
+    height: 280px;
+    background: transparent;
+    margin: auto;
+    display: flex;
+    display: none;
+}
+
+.blue3 {
+    height: 100%;
+    width: 166.5px;
+    background-color: blue;
+}
+
+.white3 {
+    height: 100%;
+    width: 166.5px;
+    background-color: white;
+}
+
+.red3 {
+    height: 100%;
+    width: 166.5px;
+    background-color: red;
+}
+
+#country4 {
+    width: 500px;
+    height: 280px;
+    background: transparent;
+    margin: auto;
+    border: 1px solid #3e3e3e;
+    display: flex;
+    display: none;
+}
+
+.green4 {
+    height: 100%;
+    width: 166.5px;
+    background-color: green;
+}
+
+.white4 {
+    height: 100%;
+    width: 166.5px;
+    background-color: white;
+}
+
+.red4 {
+    height: 100%;
+    width: 166.5px;
+    background-color: red;
+}
+
+#country5{
+    width: 500px;
+    height: 280px;
+    background: transparent;
+    margin: auto;
+    display: none;
+}
+
+.white5{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red5{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+#country6 {
+    width: 500px;
+    height: 280px;
+    background: transparent;
+    margin: auto;
+    display: none;
+}
+
+.black6{
+    background-color: black;
+    width: 100%;
+}
+
+.red6{
+    width: 100%;
+    background-color: red;
+}
+
+.yellow6{
+    width: 100%;
+    background-color: yellow;
+}
