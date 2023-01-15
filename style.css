@@ -26,8 +26,6 @@ body {
 .row {
     text-align: center;
     box-sizing: content-box;
-    /* margin: auto; */
-    /* width: 100%; */
 }
 
 #country1 {
